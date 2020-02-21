@@ -2,7 +2,7 @@
 
 
 ## Log
-This will be a log for announcements
+This will for announcements and messages to the community 
 
 ### 2020
 Date | Announcement
